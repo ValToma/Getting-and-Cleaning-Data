@@ -1,10 +1,17 @@
 Codebook 
+
 Variable Description
+
 X, Y, Z: the axis of X, Y and Z (signals can be in the X, Y and Z directions) 
+
 t (at the beginning of the variable names): time domain signals 
+
 f (at the beginning of the variable names): frequency domain signals 
+
 mean: Mean value 
+
 std: Standard deviation 
+
 meanFreq: Weighted average of the frequency components to obtain a mean 
 frequency 
 angle: Angle between to vectors 
